@@ -1,6 +1,6 @@
 # 19AI403 ASSIGNMENT-LAB INTRODUCTION
-### Prepared By : K SANTHAN KUMAR
-### Register Number : 212223240065
+### Prepared By : GUNTUR SHAIK MOHAMMAD SHAHIL
+### Register Number : 212223240044
 ### DEPT : AIML 2nd YEAR
 
 ## Requirements :
